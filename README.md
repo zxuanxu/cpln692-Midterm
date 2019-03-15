@@ -26,7 +26,7 @@ fitBounds, setView, setZoom, and [related functions](http://leafletjs.com/refere
 
 The midterm should be a new repository that you create on your personal github
 account. Create a new repository on GitHub.com and then clone it to your local
-machine using GitHub Desktop.
+machine.
 
 ## Prototype
 
